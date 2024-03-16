@@ -1,2 +1,7 @@
-# QuizMaster-Game
- 02 | For Learning | Game | 2D | Unity
+# Quiz Master
+
+This is my `third` project to learn `unity`
+
+![Shot 00](shots/00.png)
+![Shot 01](shots/01.png)
+![Shot 02](shots/02.png)
